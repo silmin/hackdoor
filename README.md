@@ -5,4 +5,13 @@
 - NFC
 - wifi
 - bluetooth
-- voice
+- Biometric authentication
+
+## 使えそうなモノ
+- Raspberry Pi
+- サーボモータ
+- NFC無線リーダー
+- NFC RING
+- カメラ
+- マイク
+- ルータ
